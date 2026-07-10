@@ -1,0 +1,6 @@
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white)](https://github.com/INP146/HomePage)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://github.com/INP146/AltSource)
+[![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](https://github.com/INP146/SaveX)
+[![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white)](https://github.com/INP146/MineBridge)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/INP146/GSLOC-PROXY)
