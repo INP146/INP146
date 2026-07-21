@@ -43,9 +43,9 @@
 
 <div align="center">
   <a href="https://github.com/INP146"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=gotham&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" />
-    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=gotham&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440&v=20260722" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440&v=20260722" />
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440&v=20260722" alt="GitHub stats" />
   </picture></a>
   <a href="https://github.com/INP146"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=INP146&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&card_width=440" />
