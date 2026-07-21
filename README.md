@@ -42,10 +42,26 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/INP146"><img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=gotham&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" /></a>
-  <a href="https://github.com/INP146"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=INP146&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&card_width=440" /></a>
+  <a href="https://github.com/INP146"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=gotham&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" />
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&card_width=440" alt="GitHub stats" />
+  </picture></a>
+  <a href="https://github.com/INP146"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=INP146&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&card_width=440" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=INP146&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=440" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=INP146&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=440" alt="GitHub contribution streak" />
+  </picture></a>
   <br />
-  <a href="https://github.com/INP146?tab=repositories"><img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=gotham&count_private=true&card_width=780" /></a>
+  <a href="https://github.com/INP146?tab=repositories"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=gotham&count_private=true&card_width=780" />
+    <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" />
+    <img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" alt="Most used languages" />
+  </picture></a>
   <br />
-  <a href="https://github.com/INP146"><img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=gotham&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="Total contribution graph in all repositories" /></a>
+  <a href="https://github.com/INP146"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=gotham&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
+    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="Total contribution graph in all repositories" />
+  </picture></a>
 </div>
