@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile graphics
 
 on:
   schedule:
@@ -16,7 +16,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
@@ -25,6 +25,20 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate light streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=440
+          path: dist/github-streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark streak SVG
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&card_width=440
+          path: dist/github-streak-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v5

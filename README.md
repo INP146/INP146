@@ -48,9 +48,9 @@
     <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&card_width=440&v=20260722" alt="GitHub stats" />
   </picture></a>
   <a href="https://github.com/INP146"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=INP146&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&card_width=440" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=INP146&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=440" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=INP146&theme=default&date_format=M%20j%5B%2C%20Y%5D&card_width=440" alt="GitHub contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" alt="GitHub contribution streak" />
   </picture></a>
   <br />
   <a href="https://github.com/INP146?tab=repositories"><picture>
