@@ -10,15 +10,15 @@
 
 <br>
 
-<!-- Social icons from INP146/HomePage -->
+<!-- Adaptive monochrome social icons -->
 <p align="center">
-  <a href="https://github.com/INP146"><img height="24" alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/INP146/HomePage/main/public/images/icon/github.png" /></a>
+  <a href="https://github.com/INP146"><img height="24" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/24292F/FFFFFF" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:inp1458@gmail.com"><img height="24" alt="Email" title="Email" src="https://raw.githubusercontent.com/INP146/HomePage/main/public/images/icon/email.png" /></a>
+  <a href="mailto:inp1458@gmail.com"><img height="24" alt="Email" title="Email" src="./assets/social/mail.svg" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/inp1458"><img height="24" alt="X / Twitter" title="X / Twitter" src="https://raw.githubusercontent.com/INP146/HomePage/main/public/images/icon/twitter.png" /></a>
+  <a href="https://x.com/inp1458"><img height="24" alt="X / Twitter" title="X / Twitter" src="https://cdn.simpleicons.org/x/24292F/FFFFFF" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/inp146"><img height="24" alt="Telegram" title="Telegram" src="https://raw.githubusercontent.com/INP146/HomePage/main/public/images/icon/telegram.png" /></a>
+  <a href="https://t.me/inp146"><img height="24" alt="Telegram" title="Telegram" src="https://cdn.simpleicons.org/telegram/24292F/FFFFFF" /></a>
 </p>
 
 <br/>
