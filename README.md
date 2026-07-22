@@ -9,16 +9,8 @@
 
 <br>
 
-<!-- Adaptive monochrome social icons -->
-<p align="center">
-  <a href="https://github.com/INP146"><img height="24" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/24292F/FFFFFF" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:inp1458@gmail.com"><img height="24" alt="Email" title="Email" src="./assets/social/mail.svg" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/inp1458"><img height="24" alt="X / Twitter" title="X / Twitter" src="https://cdn.simpleicons.org/x/24292F/FFFFFF" /></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/inp146"><img height="24" alt="Telegram" title="Telegram" src="https://cdn.simpleicons.org/telegram/24292F/FFFFFF" /></a>
-</p>
+<!-- Locally hosted monochrome social icons -->
+<p align="center"><a href="https://github.com/INP146"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/github-light.svg" /><img height="24" alt="GitHub" title="GitHub" src="./assets/social/github-light.svg" /></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="mailto:inp1458@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/mail-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/mail-light.svg" /><img height="24" alt="Email" title="Email" src="./assets/social/mail-light.svg" /></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://x.com/inp1458"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/x-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/x-light.svg" /><img height="24" alt="X / Twitter" title="X / Twitter" src="./assets/social/x-light.svg" /></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://t.me/inp146"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/telegram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/telegram-light.svg" /><img height="24" alt="Telegram" title="Telegram" src="./assets/social/telegram-light.svg" /></picture></a></p>
 
 <br/>
 
