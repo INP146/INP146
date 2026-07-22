@@ -4,8 +4,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-contribution-grid-snake.svg" />
-    <img width="99%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" />
-  </picture>
+    <img width="99%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake" /></picture>
 </div>
 
 <br>
@@ -45,23 +44,19 @@
   <a href="https://github.com/INP146"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=gotham&show_icons=true&count_private=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&card_width=440&v=20260722" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&card_width=440&v=20260722" />
-    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&card_width=440&v=20260722" alt="GitHub stats" />
-  </picture></a>
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=INP146&theme=default&show_icons=true&count_private=true&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&card_width=440&v=20260722" alt="GitHub stats" /></picture></a>
   <a href="https://github.com/INP146"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" alt="GitHub contribution streak" />
-  </picture></a>
+    <img width="49%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" alt="GitHub contribution streak" /></picture></a>
   <br />
   <a href="https://github.com/INP146?tab=repositories"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=gotham&count_private=true&card_width=780" />
     <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" />
-    <img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" alt="Most used languages" />
-  </picture></a>
+    <img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" alt="Most used languages" /></picture></a>
   <br />
   <a href="https://github.com/INP146"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=gotham&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
-    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="Total contribution graph in all repositories" />
-  </picture></a>
+    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" alt="Total contribution graph in all repositories" /></picture></a>
 </div>
