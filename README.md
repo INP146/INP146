@@ -20,7 +20,6 @@
   <a href="https://github.com/INP146/InPress"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>
   <a href="https://github.com/INP146/AltSource"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /></a>
   <a href="https://github.com/INP146/SaveX"><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" /></a>
-  <a href="https://github.com/INP146/MineBridge"><img alt="Objective-C" src="https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white" /></a>
   <a href="https://github.com/INP146/GSLOC-PROXY"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
   <a href="https://github.com/INP146/HomePage"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" /></a>
   <a href="https://github.com/INP146/InPress"><img alt="VitePress" src="https://img.shields.io/badge/VitePress-5C73E7?logo=vitepress&logoColor=white" /></a>
