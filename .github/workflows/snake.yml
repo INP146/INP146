@@ -9,6 +9,8 @@ on:
       - main
     paths:
       - .github/workflows/snake.yml
+      - scripts/generate_activity_graph.py
+      - tests/test_activity_graph.py
 
 permissions:
   contents: write
@@ -18,6 +20,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Test activity graph generator
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Generate activity graph SVGs
+        run: python3 scripts/generate_activity_graph.py --username "$PROFILE_OWNER"
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:

@@ -47,7 +47,7 @@
     <img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" alt="Most used languages" /></picture></a>
   <br />
   <a href="https://github.com/INP146"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=gotham&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" />
-    <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=INP146&theme=github-light&hide_border=false&hide_title=true&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" alt="Total contribution graph in all repositories" /></picture></a>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-activity-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-activity-graph.svg" />
+    <img width="99%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-activity-graph.svg" alt="Total contribution graph in all repositories" /></picture></a>
 </div>
