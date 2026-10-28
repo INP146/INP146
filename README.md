@@ -42,9 +42,9 @@
     <img width="49%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-streak-stats.svg" alt="GitHub contribution streak" /></picture></a>
   <br />
   <a href="https://github.com/INP146?tab=repositories"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=gotham&count_private=true&card_width=780" />
-    <source media="(prefers-color-scheme: light)" srcset="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" />
-    <img width="99%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=INP146&hide_title=false&layout=compact&theme=default&count_private=true&card_width=780" alt="Most used languages" /></picture></a>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-top-langs.svg" />
+    <img width="99%" src="https://raw.githubusercontent.com/INP146/INP146/output/github-top-langs.svg" alt="Most used languages in public, owned, non-fork repositories" /></picture></a>
   <br />
   <a href="https://github.com/INP146"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/INP146/INP146/output/github-activity-graph-dark.svg" />

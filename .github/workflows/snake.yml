@@ -11,6 +11,8 @@ on:
       - .github/workflows/snake.yml
       - scripts/generate_activity_graph.py
       - tests/test_activity_graph.py
+      - scripts/generate_languages.py
+      - tests/test_languages.py
 
 permissions:
   contents: write
@@ -28,6 +30,12 @@ jobs:
 
       - name: Generate activity graph SVGs
         run: python3 scripts/generate_activity_graph.py --username "$PROFILE_OWNER"
+        env:
+          PROFILE_OWNER: ${{ github.repository_owner }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate language SVGs
+        run: python3 scripts/generate_languages.py --username "$PROFILE_OWNER"
         env:
           PROFILE_OWNER: ${{ github.repository_owner }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
