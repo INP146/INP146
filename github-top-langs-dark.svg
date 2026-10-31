@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="165" viewBox="0 0 780 165" role="img" aria-labelledby="title description">
+<title id="title">Most Used Languages</title>
+<desc id="description">Top six languages by bytes in public, owned, non-fork repositories; percentages are normalized over the displayed languages.</desc>
+<rect x="0.5" y="0.5" width="779" height="164" rx="6" fill="#0c1014" stroke="#2a2e34"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<text x="25" y="33" fill="#2aa889" font-size="18" font-weight="600">Most Used Languages</text>
+<rect class="language-bar" x="25.000" y="58" width="207.409" height="12" fill="#3572A5"><title>Python 28.41%</title></rect>
+<circle cx="30" cy="104" r="5" fill="#3572A5"/>
+<text x="43" y="108" fill="#99d1ce" font-size="12">Python 28.41%</text>
+<rect class="language-bar" x="232.409" y="58" width="170.797" height="12" fill="#3178c6"><title>TypeScript 23.40%</title></rect>
+<circle cx="275" cy="104" r="5" fill="#3178c6"/>
+<text x="288" y="108" fill="#99d1ce" font-size="12">TypeScript 23.40%</text>
+<rect class="language-bar" x="403.206" y="58" width="113.682" height="12" fill="#41b883"><title>Vue 15.57%</title></rect>
+<circle cx="520" cy="104" r="5" fill="#41b883"/>
+<text x="533" y="108" fill="#99d1ce" font-size="12">Vue 15.57%</text>
+<rect class="language-bar" x="516.888" y="58" width="92.911" height="12" fill="#F05138"><title>Swift 12.73%</title></rect>
+<circle cx="30" cy="130" r="5" fill="#F05138"/>
+<text x="43" y="134" fill="#99d1ce" font-size="12">Swift 12.73%</text>
+<rect class="language-bar" x="609.799" y="58" width="85.246" height="12" fill="#89e051"><title>Shell 11.68%</title></rect>
+<circle cx="275" cy="130" r="5" fill="#89e051"/>
+<text x="288" y="134" fill="#99d1ce" font-size="12">Shell 11.68%</text>
+<rect class="language-bar" x="695.045" y="58" width="59.955" height="12" fill="#438eff"><title>Objective-C 8.21%</title></rect>
+<circle cx="520" cy="130" r="5" fill="#438eff"/>
+<text x="533" y="134" fill="#99d1ce" font-size="12">Objective-C 8.21%</text>
+</g></svg>
